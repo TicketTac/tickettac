@@ -1,7 +1,7 @@
 # Ticket Tac
 
-[![Bot Version](https://img.shields.io/badge/version-1.0.6-blue)](https://github.com/Amelontech/TicketTac)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/Amelontech/TicketTac/blob/main/LICENSE)
+[![Bot Version](https://img.shields.io/badge/version-1.0.6-blue)](https://github.com/TicketTac/TicketTac)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/TicketTac/TicketTac/blob/main/LICENSE)
 
 ## 🎟️ Introduction
 
@@ -41,10 +41,8 @@ Manage your server's tickets like a pro with Ticket Tac! Upgrade your support sy
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Amelontech/TicketTac/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/TicketTac/TicketTac/blob/main/LICENSE) file for details.
 
 ## 📧 Contact
 
-For support or inquiries, join our [Support Server](https://discord.gg/sHGCTcK9y2) or reach out via email at support@tickettacbot.com.
-
-Feel free to customize this GitHub information page with your specific bot details, GitHub repository link, and any additional information you want to provide to users. This page will help users understand your bot's features and provide easy access to invite it to their Discord servers. Good luck with your GitHub page!
+For support or inquiries, join our [Support Server](https://discord.gg/sHGCTcK9y2) or reach out via email at team.tickettac@gmail.com

@@ -2,7 +2,7 @@
 
 [![Bot Version](https://img.shields.io/badge/version-1.0.6-blue)](https://github.com/TicketTac/TicketTac)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/TicketTac/TicketTac/blob/main/LICENSE)
-[[Discord !](https://discord.com/api/guilds/1120463619734392883/widget.json)
+[Discord !](https://discord.com/api/guilds/1120463619734392883/widget.json)
 
 ## 🎟️ Introduction
 

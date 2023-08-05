@@ -12,7 +12,6 @@ Ticket Tac is your reliable ticket management bot for Discord! Need an efficient
 
 ### ℹ️ Info List
 
-- `/info`: Displays bot information.
 - `/info dbl`: View information about Ticket Tac's presence on Discord Bot List.
 - `/info help`: Display a list of available commands.
 - `/info info`: Retrieve detailed information about Ticket Tac.

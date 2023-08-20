@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Ticket Tac Bot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        footer {
+            margin-top: 50px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p>Welcome to Ticket Tac Bot! By using this bot, you agree to the following terms:</p>
+    
+    <h2>1. Bot Usage</h2>
+    <p>Use the bot responsibly and follow all Discord guidelines.</p>
+    
+    <h2>2. Privacy</h2>
+    <p>We do not collect personal information. Read our Privacy Policy for details.</p>
+    
+    <h2>3. Limitation of Liability</h2>
+    <p>We are not responsible for any issues caused by the bot's usage.</p>
+    
+    <footer>
+        <p>&copy; 2023 Ticket Tac Bot. All rights reserved.</p>
+    </footer>
+</body>
+</html>
